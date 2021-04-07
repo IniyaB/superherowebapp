@@ -1,0 +1,9 @@
+{
+    "C_Cpp.autoAddFileAssociations": false,
+    "files.autoSave": "afterDelay",
+    "doxdocgen.generic.filteredKeywords": [
+    
+    ],
+    "C_Cpp.default.includePath": []
+    
+}

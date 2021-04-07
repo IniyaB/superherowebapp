@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\SuperHeroWebApp\build\CMakeFiles\ff5f1aafb48a1e8ceb9d11564b986569\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AFDF0032-1F35-3081-B146-1B9CC9A430AC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
